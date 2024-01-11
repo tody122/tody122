@@ -1,16 +1,16 @@
-### Hi there 👋
+#Olá, me chamo Pedro Todineyb
 
-<!--
-**tody122/tody122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###Sobre Mim...
 
-Here are some ideas to get you started:
+Tenho 20 anos, e estou estudando engenharia da computação na Facens e estou no 7º semestre.
+Adoro desafios que necessite de lógica para ser resolvidos além do amor especial pela inovação e tecnologia.
+Sei falar inglês e estou em busca de aprender linguagens de programação pra desenvolver meus própios programas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###Estou no aprendizado das linguagens:
+
+C
+JavaScript
+CSS
+HTML
+Python
+C#
